@@ -3,6 +3,12 @@
 A short full stack project using an H2 in memory database. Build in Java and SQL, utilising maven and springboot to host the database temporarily.
 
 This project contains GUI elements interacting with a database in the backend. It works to both insert new entries into the database and select existing entries from the database. It makes use of PreparedStatements and has numerous try catch blocks to handle all manner of sql errors.
+#### Create Account
+![Create Account](/Images/CreateAccount.png?raw=true "Create Account")
+#### Find User
+![Find User](/Images/FindUser.png?raw=true "Find User")
+#### Update Chore
+![Update Chore](/Images/UpdateChore.png?raw=true "Update Chore")
 
  ### Why make this project?
 This project was used to test my knowledge of databases, temporary in-memory ones in this case. It also tested my ability to connect front end to back end, utilising the java GUI tools to create interactions between users and the database I learned a lot about full stack development and databases as well as JBDI functionality. It also made me aware of what H2 and SpringBoot are and how they are used. 
